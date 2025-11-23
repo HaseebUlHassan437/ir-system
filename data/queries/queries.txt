@@ -1,0 +1,3 @@
+# Sample queries (one per line)
+information retrieval systems
+text mining techniques

@@ -1,0 +1,6 @@
+# Boolean Retrieval Configuration
+system_name: "Boolean"
+preprocessing:
+  lowercase: true
+  remove_stopwords: true
+  stemming: false

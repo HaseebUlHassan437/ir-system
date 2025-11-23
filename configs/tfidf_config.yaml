@@ -1,0 +1,10 @@
+# TF-IDF Configuration
+system_name: "TF-IDF"
+preprocessing:
+  lowercase: true
+  remove_stopwords: true
+  stemming: true
+tfidf:
+  max_features: null
+  min_df: 2
+  max_df: 0.95

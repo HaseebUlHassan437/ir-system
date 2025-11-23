@@ -1,0 +1,2 @@
+# Relevance judgments
+# Format: query_id doc_id relevance_score

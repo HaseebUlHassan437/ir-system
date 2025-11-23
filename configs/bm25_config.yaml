@@ -1,0 +1,9 @@
+# BM25 Configuration
+system_name: "BM25"
+preprocessing:
+  lowercase: true
+  remove_stopwords: true
+  stemming: true
+bm25:
+  k1: 1.5
+  b: 0.75
